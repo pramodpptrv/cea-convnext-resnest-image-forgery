@@ -1,0 +1,6 @@
+split,Authentic,Tampered,All
+drop,1,207,208
+test,234,215,449
+train,747,595,1342
+val,187,140,327
+All,1169,1157,2326
